@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="heading">INTENTS AND LISTVIEW</string>
+    <string-array name="list">
+        <item>Android</item>
+        <item>Windows</item>
+        <item>Blackberry</item>
+        <item>IOS</item>
+    </string-array>
+    <string name="button">CLICK TO NEXT PAGE</string>
+    <string name="google">CLICK TO GOOGLE</string>
+</resources>
